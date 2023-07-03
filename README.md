@@ -55,7 +55,7 @@ API Used: https://alquran.cloud/api
 ## 🔑 License
 
 - Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE.md) untuk detailnya
-- 
+
 ## 🧑 Author
 
 #### Muhammad Hamza
