@@ -1,6 +1,9 @@
-| Nama  | Muhamad Farhan    |
-| Kelas  | TI.20.A2        |
-| Matkul  | Pemograman Mobile  |
+| Nama   | Muhamad Farhan   |
+|--------|------------------|
+| NIM    |    312010400     |
+| KELAS  |     TI.20.A2     |
+| Matkul |pemrograman Mobile|  
+| Tugas  | UAS              |
 
 Aplikasi Kitab Suci umat Islam, Al-Qur'an. Dikembangkan menggunakan Flutter
 Data diambil menggunakan API dan sekarang **mode offline** tersedia. Jadi, Anda membutuhkan internet untuk pertama kalinya saja!
